@@ -6,7 +6,7 @@
 
     <groupId>org.reactome.server.utils</groupId>
     <artifactId>reactome-utils</artifactId>
-    <version>1.535.0</version>
+    <version>1.536.0</version>
 
     <name>Utils</name>
 
